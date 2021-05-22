@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @themoinmalik
-- 👀 I’m interested in machine learning
+- 👀 I’m a fullstack web developer
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me twitter = @themoinmalik
 
 <!---
