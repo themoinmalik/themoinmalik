@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @themoinmalik
-- 👀 I’m a fullstack Web Developer
-- 🌱 I’m currently learning BlockChain Smart Contract
+- 👋 Hi, I’m Moin Malik
+- 👀 I’m a fullstack Java Developer
+- 🌱 I’m currently Working in an IT Company 
 - 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me twitter = @themoinmalik
 
