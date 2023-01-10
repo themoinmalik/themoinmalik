@@ -1,6 +1,6 @@
 #    💫                                             Hi, I’m Moin Malik <br>FullStack Java Developer
 
-👋 I’m a fullstack Java Developer<br>🌱 I’m currently Working in an IT Company<br>👀 I’m looking to collaborate on web development project<br>📫 How to reach me twitter = @themoinmalik
+👋 I’m a fullstack Java Developer<br>🌱 I’m currently Working in an IT Company<br>👀 I’m looking to collaborate on web development project<br>
 
 
 ## 🌐 Socials:
