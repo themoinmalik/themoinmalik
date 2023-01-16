@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moin Malik</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=themoinmalik&label=Profile%20views&color=0e75b6&style=flat" alt="themoinmalik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themoinmalik" alt="themoinmalik" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/themoinmalik" target="blank"><img src="https://img.shields.io/twitter/follow/themoinmalik?logo=twitter&style=for-the-badge" alt="themoinmalik" /></a> </p>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Social Media App**
@@ -16,6 +10,13 @@
 - 🤝 I’m looking for help with **Java project**
 
 - 💬 Ask me about **java development**
+
+
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=themoinmalik&label=Profile%20views&color=0e75b6&style=flat" alt="themoinmalik" /> </p>
+
+
+<p align="left"> <a href="https://twitter.com/themoinmalik" target="blank"><img src="https://img.shields.io/twitter/follow/themoinmalik?logo=twitter&style=for-the-badge" alt="themoinmalik" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,3 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themoinmalik&show_icons=true&locale=en" alt="themoinmalik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themoinmalik&" alt="themoinmalik" /></p>
+
+<p align="left" style="margin-top:5opx"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themoinmalik" alt="themoinmalik" /></a> </p>
+
