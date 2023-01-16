@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Moin Malik</h1>
-<h3 align="center">A passionate FullStack Java Developer developer from India</h3>. 
+<h3 align="center">A passionate FullStack Java Developer developer from India</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Moin Malik the code huter" width="400" align="center">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Moin Malik the code huter" width="400" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=themoinmalik&label=Profile%20views&color=0e75b6&style=flat" alt="themoinmalik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themoinmalik" alt="themoinmalik" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/themoinmalik" target="blank"><img src="https://img.shields.io/twitter/follow/themoinmalik?logo=twitter&style=for-the-badge" alt="themoinmalik" /></a> </p>
 
@@ -16,6 +13,12 @@
 - 📝 I regularly write articles on [medium](medium)
 
 - 💬 Ask me about **Spring Boot**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=themoinmalik&label=Profile%20views&color=0e75b6&style=flat" alt="themoinmalik" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themoinmalik" alt="themoinmalik" /></a> </p>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
