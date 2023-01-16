@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Moin Malik</h1>
-<h3 align="center">A passionate FullStack Java Developer developer from India</h3>
+<h3 align="center">A passionate FullStack Java Developer from India</h3>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Moin Malik the code huter" width="400">
 
