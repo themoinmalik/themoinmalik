@@ -35,9 +35,9 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themoinmalik&show_icons=true&locale=en" alt="themoinmalik" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themoinmalik&show_icons=true&locale=en&layout=compact" alt="themoinmalik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=themoinmalik&show_icons=true&locale=en&layout=compact" alt="themoinmalik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themoinmalik&" alt="themoinmalik" /></p>
+<p style="margin-top:5opx"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themoinmalik&" alt="themoinmalik" /></p>
 
-<p align="left" style="margin-top:5opx"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themoinmalik" alt="themoinmalik" /></a> </p>
+<p style="margin-top:5opx"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themoinmalik" alt="themoinmalik" /></a> </p>
 
