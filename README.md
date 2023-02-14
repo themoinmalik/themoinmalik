@@ -38,6 +38,8 @@
 
 ![Moin's GitHub stats](https://github-readme-stats.vercel.app/api?username=themoinmalik&show_icons=true&theme=radical)
 
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=themoinmalik)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=themoinmalik)](https://git.io/streak-stats)
 
 <p style="margin-top:5opx"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themoinmalik" alt="themoinmalik" /></a> </p>
