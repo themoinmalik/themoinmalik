@@ -62,6 +62,3 @@
 
 <p style="margin-top:5opx"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=themoinmalik" alt="themoinmalik" /></a> </p>
-
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=themoinmalik)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
