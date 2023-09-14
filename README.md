@@ -3,13 +3,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Social Media App**
+- 🔭 I’m currently working as a **FullStack Java Developer**
 
 - 👯 I’m looking to collaborate on **open source project**
 
 - 🤝 I’m looking for help with **Java project**
 
-- 💬 Ask me about **java development**
+- 💬 Ask me about **Backend development**
 
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=themoinmalik&label=Profile%20views&color=0e75b6&style=flat" alt="themoinmalik" /> </p>
